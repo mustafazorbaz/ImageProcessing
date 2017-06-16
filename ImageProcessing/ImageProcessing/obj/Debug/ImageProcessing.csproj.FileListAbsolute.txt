@@ -1,0 +1,9 @@
+C:\Users\Mustafa\documents\visual studio 2015\Projects\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.Form1.resources
+C:\Users\Mustafa\documents\visual studio 2015\Projects\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.Properties.Resources.resources
+C:\Users\Mustafa\documents\visual studio 2015\Projects\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.csproj.GenerateResource.Cache
+C:\Users\Mustafa\documents\visual studio 2015\Projects\ImageProcessing\ImageProcessing\bin\Debug\ImageProcessing.exe
+C:\Users\Mustafa\documents\visual studio 2015\Projects\ImageProcessing\ImageProcessing\bin\Debug\ImageProcessing.pdb
+C:\Users\Mustafa\documents\visual studio 2015\Projects\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.exe
+C:\Users\Mustafa\documents\visual studio 2015\Projects\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.pdb
+C:\Users\Mustafa\documents\visual studio 2015\Projects\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.csprojResolveAssemblyReference.cache
+C:\Users\Mustafa\documents\visual studio 2015\Projects\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.FormHistogram.resources
